@@ -1,4 +1,4 @@
-package org.nehyshta.solutions;
+package org.nehyshta.solutions.linear;
 
 import java.util.Scanner;
 
